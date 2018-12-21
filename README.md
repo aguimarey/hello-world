@@ -1,4 +1,4 @@
 # hello-world
-Diciembre de 2018: se crea el repositorio
+december 2018: repo creatin
 
-Idea 1 (diciembre de 2018): dispositivo detector de vaciado de contenedores para auditar contratas
+idea (december 2018): sensor system to audit solid waste external collecting services
